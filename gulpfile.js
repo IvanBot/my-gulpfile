@@ -47,6 +47,5 @@ gulp.task('bs', function() {
     server: {
       baseDir: "build"
     }
-    // browser: "chromium"
   });
 });
